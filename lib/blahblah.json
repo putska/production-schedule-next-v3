@@ -1,0 +1,1546 @@
+{
+  "production-schedule": {
+    "66": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 62
+    },
+    "67": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 63
+    },
+    "68": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 64
+    },
+    "69": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 65
+    },
+    "70": {
+      "cellColor": "",
+      "actual": 100,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 66
+    },
+    "71": { "cellColor": "", "actual": 0 },
+    "72": { "cellColor": "", "actual": 0 },
+    "73": { "cellColor": "", "actual": 1 },
+    "74": { "cellColor": "", "actual": 0 },
+    "75": { "cellColor": "", "actual": 0 },
+    "76": { "cellColor": "", "actual": 0 },
+    "77": { "cellColor": "", "actual": 0 },
+    "78": { "cellColor": "", "actual": 0 },
+    "79": { "cellColor": "", "actual": 0 },
+    "80": { "cellColor": "", "actual": 0 },
+    "81": { "cellColor": "", "actual": 0 },
+    "82": { "cellColor": "", "actual": 0 },
+    "83": { "cellColor": "", "actual": 0 },
+    "84": { "cellColor": "", "actual": 0 },
+    "85": { "cellColor": "", "actual": 0 },
+    "86": { "cellColor": "", "actual": 0 },
+    "87": { "cellColor": "", "actual": 0 },
+    "88": { "cellColor": "", "actual": 0 },
+    "89": { "cellColor": "", "actual": 0 },
+    "90": { "cellColor": "", "actual": 0 },
+    "91": { "cellColor": "", "actual": 0 },
+    "92": { "cellColor": "", "actual": 0 },
+    "93": { "cellColor": "", "actual": 0 },
+    "94": { "cellColor": "", "actual": 0 },
+    "95": { "cellColor": "", "actual": 0 },
+    "96": { "cellColor": "", "actual": 0 },
+    "97": { "cellColor": "", "actual": 0 },
+    "98": { "cellColor": "", "actual": 0 },
+    "99": { "cellColor": "", "actual": 0 },
+    "100": { "cellColor": "", "actual": 0 },
+    "101": { "cellColor": "", "actual": 0 },
+    "102": { "cellColor": "", "actual": 0 },
+    "103": { "cellColor": "", "planned": 0, "actual": 0 },
+    "104": { "cellColor": "", "planned": 0, "actual": 0 },
+    "105": { "cellColor": "", "planned": 0, "actual": 0 },
+    "106": { "cellColor": "", "planned": 0, "actual": 0 },
+    "107": { "cellColor": "", "planned": 0, "actual": 0 },
+    "108": { "cellColor": "", "planned": 0, "actual": 0 },
+    "109": { "cellColor": "", "planned": 0, "actual": 0 },
+    "110": { "cellColor": "", "planned": 0, "actual": 0 },
+    "111": { "cellColor": "", "planned": 0, "actual": 0 },
+    "112": { "cellColor": "", "planned": 0, "actual": 0 },
+    "113": { "cellColor": "", "planned": 0, "actual": 0 },
+    "114": { "cellColor": "", "planned": 0, "actual": 0 },
+    "115": { "cellColor": "", "planned": 0, "actual": 0 },
+    "116": { "cellColor": "", "planned": 0, "actual": 0 },
+    "117": { "cellColor": "", "planned": 0, "actual": 0 },
+    "118": { "cellColor": "", "planned": 0, "actual": 0 },
+    "119": { "cellColor": "", "planned": 0, "actual": 0 },
+    "120": { "cellColor": "", "planned": 0, "actual": 0 },
+    "121": { "cellColor": "", "planned": 0, "actual": 0 },
+    "122": { "cellColor": "", "planned": 0, "actual": 0 },
+    "123": { "cellColor": "", "planned": 0, "actual": 0 },
+    "124": { "cellColor": "", "planned": 0, "actual": 0 },
+    "125": { "cellColor": "", "planned": 0, "actual": 0 },
+    "126": { "cellColor": "", "planned": 0, "actual": 0 },
+    "127": { "cellColor": "", "planned": 0, "actual": 0 },
+    "128": { "cellColor": "", "planned": 0, "actual": 0 },
+    "129": { "cellColor": "", "planned": 0, "actual": 0 },
+    "130": { "cellColor": "", "planned": 0, "actual": 0 },
+    "131": { "cellColor": "", "planned": 0, "actual": 0 },
+    "132": { "cellColor": "", "planned": 0, "actual": 0 },
+    "133": { "cellColor": "", "planned": 0, "actual": 0 },
+    "134": { "cellColor": "", "planned": 0, "actual": 0 },
+    "135": { "cellColor": "", "planned": 0, "actual": 0 },
+    "136": { "cellColor": "", "planned": 0, "actual": 0 },
+    "137": { "cellColor": "", "planned": 0, "actual": 0 },
+    "138": { "cellColor": "", "planned": 0, "actual": 0 },
+    "139": { "cellColor": "", "planned": 0, "actual": 0 },
+    "140": { "cellColor": "", "planned": 0, "actual": 0 },
+    "141": { "cellColor": "", "planned": 0, "actual": 0 },
+    "142": { "cellColor": "", "planned": 0, "actual": 0 },
+    "143": { "cellColor": "", "planned": 0, "actual": 0 },
+    "144": { "cellColor": "", "planned": 0, "actual": 0 },
+    "145": { "cellColor": "", "planned": 0, "actual": 0 },
+    "146": { "cellColor": "", "planned": 0, "actual": 0 },
+    "147": { "cellColor": "", "planned": 0, "actual": 0 },
+    "148": { "cellColor": "", "planned": 0, "actual": 0 },
+    "149": { "cellColor": "", "planned": 0, "actual": 0 },
+    "150": { "cellColor": "", "planned": 0, "actual": 0 },
+    "151": { "cellColor": "", "planned": 0, "actual": 0 },
+    "152": { "cellColor": "", "planned": 0, "actual": 0 },
+    "153": { "cellColor": "", "planned": 0, "actual": 0 },
+    "154": { "cellColor": "", "planned": 0, "actual": 0 },
+    "155": { "cellColor": "", "planned": 0, "actual": 0 },
+    "156": { "cellColor": "", "planned": 0, "actual": 0 },
+    "157": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 153
+    },
+    "158": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 154
+    },
+    "159": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 155
+    },
+    "160": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 156
+    },
+    "161": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 157
+    },
+    "162": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 158
+    },
+    "163": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 159
+    },
+    "164": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 160
+    },
+    "165": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 161
+    },
+    "166": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 162
+    },
+    "167": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 163
+    },
+    "168": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 164
+    },
+    "169": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 165
+    },
+    "170": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 166
+    },
+    "171": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 167
+    },
+    "172": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 168
+    },
+    "173": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 169
+    },
+    "174": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 170
+    },
+    "175": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 171
+    },
+    "176": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 172
+    },
+    "177": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 173
+    },
+    "178": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 174
+    },
+    "179": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 175
+    },
+    "180": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 176
+    },
+    "181": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 177
+    },
+    "182": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 178
+    },
+    "183": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 179
+    },
+    "184": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 180
+    },
+    "185": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 181
+    },
+    "186": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 182
+    },
+    "187": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 183
+    },
+    "188": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 184
+    },
+    "189": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 185
+    },
+    "190": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 186
+    },
+    "wallType": "Radius TEC Wall",
+    "emps": 12,
+    "booked": true,
+    "engineering": false,
+    "stickwall": true,
+    "reserved": false,
+    "unitsPerWeek": 0,
+    "units": 0,
+    "weeks": 0,
+    "weeksToGoBack": 26,
+    "shopID": "4",
+    "jobNumber": "10-788",
+    "jobName": "Stanford George Schultz Stick",
+    "customer": "xx",
+    "fieldStart": "2022-05-16T07:00:00.000Z",
+    "shopStart": "2022-04-18T07:00:00.000Z",
+    "metalTakeoff": "2021-10-18T07:00:00.000Z",
+    "orderWeekOf": "2023-08-24T16:02:50.313Z",
+    "panelFabs": "2023-08-24T16:02:50.313Z",
+    "panelRelease": "2023-08-24T16:02:50.313Z",
+    "glassTakeoff": "2023-08-24T16:02:50.313Z",
+    "shopUseBrakeShapesAndSteel": "2023-08-24T16:02:50.313Z",
+    "doorSchedule": "2023-08-24T16:02:50.313Z",
+    "end": "2022-04-18T07:00:00.000Z",
+    "offset": 0,
+    "NaN": {
+      "cellColor": "",
+      "actual": 0,
+      "fieldStartOffset": 186,
+      "shopStartOffset": 0
+    },
+    "locationID": null,
+    "jobDatesUpdated": "2023-12-30T15:44:58.255Z"
+  },
+  "panel-matrix": {
+    "linkToField": { "value": true, "value2": "", "status": "" },
+    "jobNumber": { "value": "10-788", "value2": "", "status": "" },
+    "jobName": {
+      "value": "Stanford George Schultz Stick",
+      "value2": "",
+      "status": ""
+    },
+    "shopStart": { "value": "4/18/2022", "value2": "", "status": "" },
+    "fieldStart": { "value": "5/16/2022", "value2": "", "status": "" },
+    "panelFabs": { "value": "8/24/2023", "value2": "5", "status": "" },
+    "panelRelease": { "value": "8/24/2023", "value2": "", "status": "" },
+    "dollarAmount": { "value": "", "value2": "", "status": "" },
+    "sqft": { "value": 1, "value2": "", "status": "Completed" },
+    "pnl_vendor": {
+      "value": "Pohl ",
+      "value2": "",
+      "status": "New Panel Matrix Setting"
+    },
+    "costPerSqft": { "value": "", "value2": "", "status": "" },
+    "panelRFQ": { "value": "", "value2": "", "status": "" },
+    "proposedPanelReleases": { "value": "", "value2": "", "status": "" },
+    "panelScope": { "value": "", "value2": "", "status": "" },
+    "vendorKickOffLetter": { "value": "", "value2": "", "status": "" },
+    "kickOffMeeting": { "value": "", "value2": "", "status": "" },
+    "finalPanelReleases": { "value": "", "value2": "", "status": "" },
+    "keyNotes": { "value": "", "value2": "", "status": "" },
+    "finish": { "value": "", "value2": "", "status": "" },
+    "certifiedMatchApproved": { "value": "", "value2": "", "status": "" },
+    "warranty": { "value": "", "value2": "", "status": "" },
+    "deliveryStartDateShop": { "value": "", "value2": "", "status": "" },
+    "deliveryStartDateField": { "value": "", "value2": "", "status": "" },
+    "shopUseBrakes": { "value": "", "value2": "", "status": "" },
+    "shopUseSteel": { "value": "", "value2": "", "status": "" },
+    "glazeInPanelRelease": { "value": "", "value2": "", "status": "" },
+    "fieldUsePanelRelease": { "value": "", "value2": "", "status": "" },
+    "QC": { "value": "", "value2": "", "status": "" },
+    "doorLeafs": { "value": "", "value2": "", "status": "" },
+    "notes": { "value": "", "value2": "", "status": "" },
+    "shopID": "4"
+  },
+  "packaging": {
+    "66": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 62
+    },
+    "67": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 63
+    },
+    "68": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 64
+    },
+    "69": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 65
+    },
+    "70": {
+      "cellColor": "",
+      "actual": 100,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 66
+    },
+    "71": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "72": { "cellColor": "", "actual": 13 },
+    "73": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 69,
+      "shopStartOffset": 0
+    },
+    "74": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "75": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "76": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "77": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "78": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "79": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "80": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "81": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "82": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "83": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "84": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "85": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 0,
+      "fieldStartOffset": 0,
+      "shopStartOffset": 0
+    },
+    "86": {
+      "cellColor": "#1976d2",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 66,
+      "actual": 100
+    },
+    "87": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "88": {
+      "cellColor": "#1976d2",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 68,
+      "actual": 2
+    },
+    "89": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 69,
+      "actual": 2
+    },
+    "90": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "91": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "92": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "93": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "94": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "95": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "96": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "97": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "98": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "99": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "100": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "101": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "102": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "103": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "104": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "105": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "106": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "107": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "108": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "109": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "110": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "111": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "112": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "113": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "114": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "115": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "116": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "117": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "118": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "119": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "120": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "121": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "122": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "123": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "124": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "125": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "126": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "127": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "128": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "129": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "130": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "131": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "132": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "133": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "134": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "135": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "136": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "137": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "138": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "139": {
+      "cellColor": "",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "shopStartOffset": 0,
+      "fieldStartOffset": 0,
+      "actual": 0
+    },
+    "140": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 136
+    },
+    "141": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 137
+    },
+    "142": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 138
+    },
+    "143": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 139
+    },
+    "144": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 140
+    },
+    "145": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 141
+    },
+    "146": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 142
+    },
+    "147": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 143
+    },
+    "148": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 144
+    },
+    "149": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 145
+    },
+    "150": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 146
+    },
+    "151": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 147
+    },
+    "152": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 148
+    },
+    "153": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 149
+    },
+    "154": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 150
+    },
+    "155": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 151
+    },
+    "156": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 152
+    },
+    "157": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 153
+    },
+    "158": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 154
+    },
+    "159": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 155
+    },
+    "160": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 156
+    },
+    "161": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 157
+    },
+    "162": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 158
+    },
+    "163": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 159
+    },
+    "164": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 160
+    },
+    "165": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 161
+    },
+    "166": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 162
+    },
+    "167": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 163
+    },
+    "168": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 164
+    },
+    "169": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 165
+    },
+    "170": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 166
+    },
+    "171": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 167
+    },
+    "172": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 168
+    },
+    "173": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 169
+    },
+    "174": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 170
+    },
+    "175": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 171
+    },
+    "176": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 172
+    },
+    "177": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 173
+    },
+    "178": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 174
+    },
+    "179": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 175
+    },
+    "180": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 176
+    },
+    "181": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 177
+    },
+    "182": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 178
+    },
+    "183": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 179
+    },
+    "184": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 180
+    },
+    "185": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 181
+    },
+    "186": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 182
+    },
+    "187": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 183
+    },
+    "188": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 184
+    },
+    "189": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 185
+    },
+    "190": {
+      "cellColor": "",
+      "actual": 0,
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "fieldStartOffset": 186
+    },
+    "wallType": "Radius TEC Wall",
+    "emps": 12,
+    "booked": true,
+    "engineering": false,
+    "stickwall": true,
+    "reserved": false,
+    "unitsPerWeek": 0,
+    "units": 0,
+    "weeks": 0,
+    "weeksToGoBack": 26,
+    "shopID": "4",
+    "jobNumber": "None",
+    "jobName": "Stanford George Schultz Stick",
+    "customer": "xx",
+    "fieldStart": "2022-05-16T07:00:00.000Z",
+    "shopStart": "2022-04-18T07:00:00.000Z",
+    "metalTakeoff": "2021-10-18T07:00:00.000Z",
+    "orderWeekOf": "2023-08-24T16:02:50.313Z",
+    "panelFabs": "2023-08-24T16:02:50.313Z",
+    "panelRelease": "2023-08-24T16:02:50.313Z",
+    "glassTakeoff": "2023-08-24T16:02:50.313Z",
+    "shopUseBrakeShapesAndSteel": "2023-08-24T16:02:50.313Z",
+    "doorSchedule": "2023-08-24T16:02:50.313Z",
+    "end": "2022-04-18T07:00:00.000Z",
+    "offset": 0,
+    "NaN": {
+      "cellColor": "#1976d2",
+      "linkToFieldStart": true,
+      "linkToShopStart": false,
+      "actual": 2,
+      "fieldStartOffset": 68,
+      "shopStartOffset": 0
+    }
+  },
+  "all-activities": {
+    "jobNumber": { "value": "None", "status": "" },
+    "jobName": { "value": "Stanford George Schultz Stick", "status": "" },
+    "PM": { "value": "", "status": "" },
+    "superindentent": {
+      "value": "Some Superintendent",
+      "status": "New Activities Option"
+    },
+    "startShopDrawings": { "value": "", "status": "" },
+    "metalTakeoff": {
+      "value": "2021-10-18T07:00:00.000Z",
+      "status": "Completed"
+    },
+    "glassTakeoff": { "value": "2023-08-24T16:02:50.313Z", "status": "" },
+    "doorSchedule": { "value": "2023-08-24T16:02:50.313Z", "status": "" },
+    "shopUseBrakeShapesAndSteel": {
+      "value": "2023-08-24T16:02:50.313Z",
+      "status": ""
+    },
+    "panelFabs": { "value": "2023-08-24T16:02:50.313Z", "status": "" },
+    "panelRelease": { "value": "2023-08-24T16:02:50.313Z", "status": "" },
+    "fabDrawings": { "value": null },
+    "start": { "value": "", "status": "" },
+    "fieldStart": { "value": "2022-05-16T07:00:00.000Z", "status": "" },
+    "shopDrawings": { "value": null }
+  },
+  "jmp-field-tracking": {
+    "jobName": { "value": "Stanford George Schultz Stick", "status": "" },
+    "jobNumber": { "value": "None", "status": "" },
+    "pm": { "value": "", "status": "" },
+    "superintendent": { "value": "", "status": "" },
+    "templateAdded": {
+      "value": "template added 1",
+      "status": "JMP Field Tracking Option"
+    },
+    "preliminaryJPS": { "value": "new", "status": "JMP Field Tracking Option" },
+    "jobBookedReview": { "value": "", "status": "" },
+    "prelimSent": { "value": "", "status": "" },
+    "safetyHandOff": { "value": "", "status": "" },
+    "fieldMonitorMeetingDate": { "value": "", "status": "" },
+    "warRoom": { "value": "", "status": "" },
+    "fieldStart": { "value": "2022-05-16T07:00:00.000Z", "status": "" },
+    "linkUnitInstallStart": { "value": "", "status": "" },
+    "afterActionWeekly": { "value": "", "status": "" },
+    "toGoList": { "value": "", "status": "" },
+    "wolfpackJobs": { "value": "", "status": "" },
+    "comments": { "value": "", "status": "" }
+  },
+  "metal": {
+    "42": { "cellColor": "", "actual": 0 },
+    "43": { "cellColor": "", "actual": 50 },
+    "44": { "cellColor": "", "actual": 0, "planned": 10 },
+    "45": { "cellColor": "", "actual": 0 },
+    "46": { "cellColor": "", "actual": 0 },
+    "47": { "cellColor": "", "actual": 0 },
+    "48": { "cellColor": "", "actual": 0 },
+    "49": { "cellColor": "", "actual": 0 },
+    "50": { "cellColor": "", "actual": 0 },
+    "51": { "cellColor": "", "actual": 0 },
+    "52": { "cellColor": "", "actual": 0 },
+    "53": { "cellColor": "", "actual": 0 },
+    "54": { "cellColor": "", "actual": 0 },
+    "55": { "cellColor": "", "actual": 0 },
+    "56": { "cellColor": "", "actual": 0 },
+    "57": { "cellColor": "", "actual": 0 },
+    "58": { "cellColor": "", "actual": 0 },
+    "59": { "cellColor": "", "actual": 0 },
+    "60": { "cellColor": "", "actual": 0 },
+    "61": { "cellColor": "", "actual": 0 },
+    "62": { "cellColor": "", "actual": 0 },
+    "63": { "cellColor": "", "actual": 0 },
+    "64": { "cellColor": "", "actual": 0 },
+    "65": { "cellColor": "", "actual": 0 },
+    "66": { "cellColor": "", "actual": 0 },
+    "67": { "cellColor": "", "actual": 0 },
+    "68": { "cellColor": "", "actual": 0 },
+    "69": { "cellColor": "", "actual": 0 },
+    "70": { "cellColor": "", "actual": 0 },
+    "71": { "cellColor": "", "actual": 0 },
+    "72": { "cellColor": "", "actual": 0 },
+    "73": { "cellColor": "", "actual": 1 },
+    "74": { "cellColor": "", "actual": 0 },
+    "75": { "cellColor": "", "actual": 0 },
+    "76": { "cellColor": "", "actual": 0 },
+    "77": { "cellColor": "", "actual": 0 },
+    "78": { "cellColor": "", "actual": 0 },
+    "79": { "cellColor": "", "actual": 0 },
+    "80": { "cellColor": "", "actual": 0 },
+    "81": { "cellColor": "", "actual": 0 },
+    "82": { "cellColor": "", "actual": 0 },
+    "83": { "cellColor": "", "actual": 0 },
+    "84": { "cellColor": "", "actual": 0 },
+    "85": { "cellColor": "", "actual": 0 },
+    "86": { "cellColor": "", "actual": 0 },
+    "87": { "cellColor": "", "actual": 0 },
+    "88": { "cellColor": "", "actual": 0 },
+    "89": { "cellColor": "", "actual": 0 },
+    "90": { "cellColor": "", "actual": 0 },
+    "91": { "cellColor": "", "actual": 0 },
+    "92": { "cellColor": "", "actual": 0 },
+    "93": { "cellColor": "", "actual": 0 },
+    "94": { "cellColor": "", "actual": 0 },
+    "jobNumber": "None",
+    "jobName": "Stanford George Schultz Stick",
+    "shopID": "4",
+    "wallType": "Radius TEC Wall",
+    "shopStart": "2022-04-18T07:00:00.000Z",
+    "fieldStart": "2022-05-16T07:00:00.000Z",
+    "engineering": false,
+    "reserved": false,
+    "booked": true,
+    "weeks": 0,
+    "unitsPerWeek": 0,
+    "units": 0
+  },
+  "glass-and-gasket": {
+    "jobNumber": { "value": "None", "status": "" },
+    "jobName": {
+      "value": "Stanford George Schultz Stick",
+      "status": "Completed"
+    },
+    "orderLinkToShop": { "value": "", "status": "" },
+    "orderWeekOf": { "value": "2023-08-24T16:02:50.313Z", "status": "" },
+    "glassRequired": { "value": "", "status": "" },
+    "numberOfLites": { "value": "", "status": "" },
+    "sqft": { "value": "1", "status": "Completed" },
+    "vendor": { "value": "glass", "status": "Completed" },
+    "lbs": { "value": "", "status": "" },
+    "gasket": { "value": "", "status": "" },
+    "coating": { "value": "", "status": "" },
+    "pgtTransferred": { "value": "", "status": "" },
+    "bookingPO": { "value": "", "status": "" },
+    "pgtComplete": { "value": "", "status": "" },
+    "shopID": "4",
+    "shopStart": { "value": "2022-04-18T07:00:00.000Z", "status": "" }
+  },
+  "undefined": {}
+}
